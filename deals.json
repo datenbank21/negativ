@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "1774393141597",
+    "name": "Nega",
+    "anforderung": "500000000€",
+    "gegenleistung": "1 Cent",
+    "proposer": "user1",
+    "receiver": "user2",
+    "status": "noresponse",
+    "markedDone": {
+      "user1": false,
+      "user2": false
+    },
+    "createdAt": "2026-03-24T22:59:01.597Z"
+  }
+]
