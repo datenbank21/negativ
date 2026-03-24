@@ -6,7 +6,7 @@
     "gegenleistung": "500€",
     "proposer": "user2",
     "receiver": "user1",
-    "status": "noresponse",
+    "status": "accepted",
     "markedDone": {
       "user1": false,
       "user2": false
