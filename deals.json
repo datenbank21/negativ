@@ -6,7 +6,7 @@
     "gegenleistung": "1 Cent",
     "proposer": "user1",
     "receiver": "user2",
-    "status": "noresponse",
+    "status": "accepted",
     "markedDone": {
       "user1": false,
       "user2": false
